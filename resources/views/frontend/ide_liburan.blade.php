@@ -3,7 +3,7 @@
 @section('content')
 	<div class="jumbotron jumbotron-fluid">
 	  <div class="container">
-	    ide liburan
+	    Coba baru
 	  </div>
 	</div>
 @Endsection
