@@ -2,6 +2,6 @@
 
 @section('content')
 	<div class="jumbotron jumbotron-fluid">
-		Transportasi
+		Dio Afriansyah
 	</div>
 @Endsection
