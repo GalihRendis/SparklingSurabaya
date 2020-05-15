@@ -2,6 +2,6 @@
 
 @section('content')
 	<div class="jumbotron jumbotron-fluid">
-		Saran kritik
+		Galih rendi
 	</div>
 @Endsection
